@@ -2,10 +2,6 @@ schema_version: 1
 updated_at: '2026-08-01'
 maintenance: ongoing
 providers:
-- id: xingyun
-  name: 星云-VPN
-  source_heading: 星云-VPN
-  url: https://so.dianlanla.com/xingyun
 - id: shanlian
   name: 闪连VPN
   source_heading: 闪连VPN
